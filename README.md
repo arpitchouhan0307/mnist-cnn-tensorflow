@@ -39,5 +39,4 @@ This project implements a Convolutional Neural Network (CNN) for handwritten dig
 * Dropout Regularization
 * Early Stopping
 * Deep Learning
-# mnist-cnn-tensorflow
-CNN-Based Handwritten Digit Recognition using TensorFlow/Keras
+
